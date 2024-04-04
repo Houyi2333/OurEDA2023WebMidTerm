@@ -57,6 +57,24 @@
 
 判断任务是否逾期可以使用 moment 库
 
+建议您的项目文件结构为：
+
+```json
+todolist_react/
+  README.md
+  node_modules/
+  package.json
+  public/
+    index.html
+    favicon.ico
+  src/
+	components/
+		TodoList.jsx
+    App.css
+    App.jsx
+    index.jsx
+```
+
 ## 可选项
 
 以下要求为作业的可选项，不要求必须实现
