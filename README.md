@@ -68,8 +68,8 @@ todolist_react/
     index.html
     favicon.ico
   src/
-	components/
-		TodoList.jsx
+    components/
+        TodoList.jsx
     App.css
     App.jsx
     index.jsx
